@@ -1294,3 +1294,5 @@ Processing by AuthorsController#show as HTML
 Completed 200 OK in 42ms (Views: 39.1ms | ActiveRecord: 0.9ms)
 
 
+Started GET "/posts" for 75.131.217.45 at 2020-06-10 23:33:57 +0000
+Cannot render console from 75.131.217.45! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
